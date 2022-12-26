@@ -1,0 +1,20 @@
+2021-1 오픈SW프로젝트 (컴퓨터비전, openCV) 과제 정리
+
+
+1-1 이미지 rotating
+1-2 이미지 stitching
+
+
+
+2-1 PDF, CDF generation
+2-2 Histogram stretching
+2-3 Histogram Equalization (grayscale, RGB)
+2-4 Histogram matching (grayscale, RGB)
+
+
+3-1 Mean Filter (grayscale, RGB)
+3-2  Gaussian Filter (grayscale, RGB)
+3-3 Sobel Filter (grayscale, RGB)
+3-4 Laplacian Filter (grayscale, RGB)
+3-5 Separable Gaussian Filter (grayscale, RGB)
+3-6 unsharp Filter (grayscale, RGB)

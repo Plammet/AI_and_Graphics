@@ -1,0 +1,32 @@
+2022-1 인공지능 수업 과제 (심재형 교수님)
+
+#1-1  numpy 라이브러리만 사용하여 MLP 구현
+	-  Activation Function (sigmoid, tanh 와 각각의 미분) 구현
+	- Loss function (MSE 함수와 미분) 
+	- 랜덤으로 초기 weight, bias 초기화
+	- forward propagation 구현
+	- backward propagation 구현
+	- weight, bias 업데이트
+	- XOR문제 학습 
+
+
+#1-2	tensorflow 라이브러리 사용하여 MLP 구현
+	- 위와 동일한 MLP를 tensorflow 라이브러리로 구현
+
+
+#2-1 tensorflow 라이브러리 사용하여 MobileNet 구현
+	- MobileNet 구현하고 cifar 데이터셋 학습 및 테스트 진행
+
+
+#2-2 Mobilenet 정칙화
+	- data augmentation 사용
+
+
+#3-1 RNN을 이용한 텍스트 분류 코드 분석
+
+
+#4-1 GAN을 이용한 패션 데이터 생성
+	- Fashion MNIST Dataset과 GAN을 이용하여 패션 이미지 생성
+
+
+

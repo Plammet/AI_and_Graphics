@@ -1,0 +1,66 @@
+2021-1 오픈SW프로젝트 (컴퓨터비전, openCV) 과제 정리
+
+
+1-1 이미지 rotating
+1-2 이미지 stitching
+
+
+
+2-1 PDF, CDF generation
+2-2 Histogram stretching
+2-3 Histogram Equalization (grayscale, RGB)
+2-4 Histogram matching (grayscale, RGB)
+
+
+
+3-1 Mean Filter
+3-2 Gaussian Filter
+3-3 Sobel Filter
+3-4 Laplacian Filter
+3-5 Separable Gaussian Filter
+3-6 Unsharp Filter
+
+
+4-1 Salt & Pepper noise
+4-2 Salt & Pepper noise Removal
+4-3 Gaussian noise
+4-4 Gaussian noise Removal
+4-5 bilateral filtering
+
+
+
+5-1 Adaptive Threshold
+5-2 k-means clustering
+5-3 Mean shift segmentation (코드x)
+
+
+
+6-1 Laplacian of Gaussian
+6-2 Canny Edge detection
+6-3 Harris corner detection
+
+
+
+7-1 SIFT algorithm (feature matching)
+
+
+
+8-1 Image stitching using SIFT 
+8-2 Hough transform
+
+
+________________________________________________
+
+아래부터는 python을 사용한 인공지능 기반입니다.
+________________________________________________
+
+9-1 Image classification with two-layer NN
+
+10-1 Resnet50
+
+11-1 Image Labeling with Resnet, Unet
+
+
+
+
+	
